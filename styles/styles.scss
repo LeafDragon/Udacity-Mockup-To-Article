@@ -1,0 +1,10 @@
+$namespace: uma;
+
+/**
+ * Class to shorten the width for wide screens.
+ */
+
+.#{$namespace}-container {
+  max-width: 900px;
+  margin: 0px auto;
+}
